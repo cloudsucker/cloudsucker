@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/requests-2A2A2A?style=flat&logo=python&logoColor=white" alt="requests" />
   <img src="https://img.shields.io/badge/asyncio-3776AB?style=flat&logo=python&logoColor=white" alt="asyncio" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
