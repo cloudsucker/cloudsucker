@@ -21,7 +21,7 @@
 - 🔗 **[API-HUB](https://github.com/cloudsucker/kinohubble)** — единый API для GraphQL КиноПоиск, toramp и других сервисов (Python + LiteStar).
 - 🤖 **[Telegram-бот](https://github.com/cloudsucker/kinoliba) для поиска фильмов и сериалов** — поиск фильмов/сериалов, трекинг релизов, список просмотренного.
 - 💰 **Инструментарий + [Telegram-бот](https://github.com/cloudsucker/cs2crap)** для поиска выгод при перепродаже онлайн-предметов.
-- 🖼 **[Python-библиотека](https://github.com/cloudsucker/visdatcompy) для сравнения датасетов изображений** — с релизом на [pypi.org]([https://pypi.org/](https://pypi.org/project/visdatcompy/0.8.4/).
+- 🖼 **[Python-библиотека](https://github.com/cloudsucker/visdatcompy) для сравнения датасетов изображений** — с релизом на [pypi.org](https://pypi.org/project/visdatcompy/0.8.4/).
 - 🏛 **[Desktop-приложение](https://github.com/cloudsucker/archpoint) для 3D-реконструкции** — дипломный проект (PySide6, OpenCV, HLOC, LightGlue).
 
 ---
